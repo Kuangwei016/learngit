@@ -4,5 +4,3 @@ Git is a distributed version control system.
 Changes not staged for commit:
 nothing to commit (working directory clean)
 Author: kuangw <185627534@qq.com>
-6
-7
