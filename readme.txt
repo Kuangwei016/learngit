@@ -6,5 +6,5 @@ nothing to commit (working directory clean)
 <<<<<<< HEAD
 Author: kuangw <185627534@qq.com>
 =======
-Creating a new branch is quick AND simple.
+Creating new branch is quick AND simple.
 >>>>>>> feature1
